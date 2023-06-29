@@ -46,7 +46,7 @@ Jupyter Notebook, MS-Excel, MS-Power BI
 
 [Architecture Documentation](https://github.com/Budget-Sales-Analysis/Budget_Sales_Analysis_Ineuron/blob/master/Documents/ARCHITECTURE%20DESIGN_INTERN.pdf)
 
-[WireFrame](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/04%20Wireframe.pdf)
+[WireFrame](https://github.com/Budget-Sales-Analysis/Budget_Sales_Analysis_Ineuron/blob/master/Documents/WIREFRAME_INTERN.pdf)
 
 [Detail Project Report](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/05%20Detailed%20Project%20Report.pdf)
 
