@@ -57,4 +57,4 @@ Jupyter Notebook, MS-Excel, MS-Power BI
 [LinkedIn Post](https://www.linkedin.com/posts/siddarth-ambannavar_projectbudgetanalysis-powerbi-dataanalytics-activity-7080175700321701888-aPJT/?utm_source=share&utm_medium=member_desktop)
 
 ## Youtube Video 🎬
-[Video]([https://youtu.be/yeucgBmRu0Q](https://lnkd.in/g7tAZEUs)
+[Video](https://lnkd.in/g7tAZEUs)
