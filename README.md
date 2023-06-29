@@ -48,7 +48,7 @@ Jupyter Notebook, MS-Excel, MS-Power BI
 
 [WireFrame](https://github.com/Budget-Sales-Analysis/Budget_Sales_Analysis_Ineuron/blob/master/Documents/WIREFRAME_INTERN.pdf)
 
-[Detail Project Report](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/05%20Detailed%20Project%20Report.pdf)
+[Detail Project Report](https://github.com/Budget-Sales-Analysis/Budget_Sales_Analysis_Ineuron/blob/master/Documents/Detailed_Report.pdf)
 
 ## LinkedIn Post
 [LinkedIn Post](https://www.linkedin.com/posts/siddarth-ambannavar_projectbudgetanalysis-powerbi-dataanalytics-activity-7080175700321701888-aPJT/?utm_source=share&utm_medium=member_desktop)
